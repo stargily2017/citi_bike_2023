@@ -3,4 +3,4 @@
 
 
  
-https://public.tableau.com/authoring/citibikeproject_16904282102530/Dashboard1#1
+https://public.tableau.com/app/profile/stargily.bobby/viz/citibikeproject_16904282102530/Dashboard1
