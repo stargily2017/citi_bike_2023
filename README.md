@@ -24,7 +24,7 @@ Methodology:
 1. Download the CSV file for 2023, jan, Feb, mar, Apr, May , Jun
 2. concatenate all the files
 3. save to new csv file  
-4. <img width="409" alt="image" src="https://github.com/stargily2017/citi_bike_2023/assets/117419179/5ea114b6-fc71-4081-ad27-57c73aad2f0a">
+ <img width="409" alt="image" src="https://github.com/stargily2017/citi_bike_2023/assets/117419179/5ea114b6-fc71-4081-ad27-57c73aad2f0a">
 
 Analysis:
 
