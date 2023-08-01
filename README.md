@@ -1,4 +1,6 @@
 # citi_bike_2023
+![image](https://github.com/stargily2017/citi_bike_2023/assets/117419179/6d2a3168-a046-41cf-a741-49236e83ae09)
+
 
 ##Abstract
 Since 2013, the Citi Bike program has implemented a robust infrastructure for collecting data on the program's utilization. Each month, bike data is collected, organized, and made public on Citi Bike DataLinks to an external site. Collect the Citi bike data in 2023 and analyze and visualize, How many trips have been reported in 2023 in each month, and what rideable type people use more? and many more visualizations.
