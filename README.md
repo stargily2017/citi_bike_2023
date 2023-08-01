@@ -21,8 +21,11 @@ https://public.tableau.com/app/profile/stargily.bobby/viz/citibikeproject_169042
 #Technologies & Languages: Python, jupyter notebook, Tableau, and GIT
 
 Methodology:
-1. Download the CSV file for 2023, jan, feb, mar, apr, may jun
-2. 
+1. Download the CSV file for 2023, jan, Feb, mar, Apr, May , Jun
+2. concatenate all the files
+3. save to new csv file  
+4. <img width="409" alt="image" src="https://github.com/stargily2017/citi_bike_2023/assets/117419179/5ea114b6-fc71-4081-ad27-57c73aad2f0a">
+
 Analysis:
 
 ##page 1:
