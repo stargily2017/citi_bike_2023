@@ -22,6 +22,7 @@ https://public.tableau.com/app/profile/stargily.bobby/viz/citibikeproject_169042
 
 Methodology:
 1. Download the CSV file for 2023, jan, feb, mar, apr, may jun
+2. 
 Analysis:
 
 ##page 1:
