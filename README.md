@@ -16,7 +16,7 @@ final product will be assessed on the following metrics:
 
 This is the link I created in Tableau for more reference:
 
-(https://public.tableau.com/app/profile/stargily.bobby/viz/citibikeproject1_16912061641370/introductionStory1?publish=yes)
+https://public.tableau.com/app/profile/stargily.bobby/viz/citibikeproject1_16912061641370/introductionStory1?publish=yes
 
 #Technologies & Languages: Python, jupyter notebook, Tableau, and GIT
 
